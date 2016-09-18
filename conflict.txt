@@ -1,1 +1,1 @@
-this is a test for confliction.conflict2.
+this is a test for confliction.conflict.
